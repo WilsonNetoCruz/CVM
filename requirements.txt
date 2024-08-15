@@ -1,6 +1,7 @@
+pip install --upgrade pip
 streamlit==1.25.0
 plotly==5.15.0
 pandas==2.0.1
-numpy==1.25.1
-numpy==1.25.1
+numpy==1.24.0
 setuptools>=58.0.4
+sudo apt-get install python3-distutils
